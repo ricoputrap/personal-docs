@@ -3,5 +3,7 @@
   * [BrewSuite](/projects/brewsuite/README.md)
     * [Epics & User Stories](/projects/brewsuite/stories.md)
     * [System Design](/projects/brewsuite/system-design.md)
-    * [Admin Portal](/projects/brewsuite/client-management-system.md)
+    * [Admin Portal](/projects/brewsuite/admin-portal/README.md)
+      * [Architecture](/projects/brewsuite/admin-portal/architecture.md)
+      * [Epic 1. Client Management](/projects/brewsuite/admin-portal/client-management.md)
 * [Learning Notes](learning-notes.md)
